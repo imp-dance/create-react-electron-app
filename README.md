@@ -1,12 +1,12 @@
-# create-react-app + electron = ♥
+ # create-react-app + electron = ♥
 
 ```PowerShell
 git clone https://github.com/imp-dance/create-react-electron-app.git
 
 npm i
 npm run start
-- 
-yarn i
+#- or
+yarn
 yarn start
 ```
 
